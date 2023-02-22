@@ -6,7 +6,7 @@ My name is Nick Bohm and I'm a junior at Columbia studying Computer Science. I h
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | B.S. in Computer Science | 2022-2024 |
+| <img width="75" src="./Columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | B.S. in Computer Science | 2022-2024 |
 | <img width="75" src="./cc.jpg" alt="Colorado College"></img> | [Colorado College](https://www.coloradocollege.edu/) |  B.A. in CS (Transfer) | 2019-2022 |
 
 
