@@ -10,7 +10,3 @@ My name is Nick Bohm and I'm a junior at Columbia studying Computer Science. I h
 | <img width="75" src="./cmc.jpg" alt="Claremont McKenna College"></img> | [Colorado College]([https://www.cmc.edu](https://www.coloradocollege.edu/) |  B.A. in CS (Transfer) | 2019-2022 |
 
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| <img width="75" src="./columbia.png" alt="Columbia"></img> | [Columbia University](https://www.columbia.edu/) | B.S. in Computer Science | 2022-2024 |
-| <img width="75" src="./cmc.jpg" alt="Claremont McKenna College"></img> | [Claremont McKenna College](https://www.cmc.edu/) |  B.A. in Economics & Engineering | 2019-2022 |
