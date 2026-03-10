@@ -11,14 +11,12 @@
 I build agentic systems that are observable, testable, and useful in real workflows.
 Most of my side projects focus on making AI development faster and easier to trust.
 
-## Current Projects
+## Current Project
 
 - 🔎 **[agent-search](https://github.com/Nickbohm555/agent-search)**  
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis.
-- 🧪 **[agent-trace](https://github.com/Nickbohm555/agent-trace)**  
-  Tooling to improve agent harness reliability and developer visibility.
-- 📱 **[phone-codex](https://github.com/Nickbohm555/phone-codex)**  
-  Agentic development workflows from your phone.
+
+More projects coming soon.
 
 ## What I'm Focused On
 
@@ -29,7 +27,6 @@ Most of my side projects focus on making AI development faster and easier to tru
 ## Connect
 
 - GitHub: [@Nickbohm555](https://github.com/Nickbohm555)
-- LinkedIn: _add your link here_
 
 ---
 
