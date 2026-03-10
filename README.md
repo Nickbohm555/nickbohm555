@@ -16,7 +16,7 @@ Most of my side projects focus on making AI development faster and easier to tru
 - 🔎 **[agent-search](https://github.com/Nickbohm555/agent-search)**  
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis.
 - 🧰 **[skill-cli](https://github.com/Nickbohm555/skill-cli)**  
-  CLI for creating, installing, and managing Codex skills.
+  CLI for creating and managing Codex skills from any documentation.
 
 More projects coming soon.
 
