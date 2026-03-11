@@ -17,6 +17,8 @@ Most of my side projects focus on making AI development faster and easier to tru
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis.
 - 🧰 **[skill-cli](https://github.com/Nickbohm555/skill-cli)**  
   CLI for creating and managing Codex skills from any documentation.
+- 🌙 **[dream-workflow](https://github.com/Nickbohm555/dream-workflow)**  
+  Repository for notes, markdown workflows, and shell-based experiments around useful systems and routines.
 
 More projects coming soon.
 
