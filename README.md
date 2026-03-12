@@ -18,7 +18,7 @@ Most of my side projects focus on making AI development faster and easier to tru
 - 🧰 **[skill-cli](https://github.com/Nickbohm555/skill-cli)**  
   CLI for creating and managing Codex skills from any documentation.
 - 🌙 **[dream-workflow](https://github.com/Nickbohm555/dream-workflow)**  
-  Repository for notes, markdown workflows, and shell-based experiments around useful systems and routines.
+  Workflow system combining GSD with the Ralph loop to 100x my development speed.
 
 More projects coming soon.
 
