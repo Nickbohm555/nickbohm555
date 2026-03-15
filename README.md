@@ -11,12 +11,15 @@
 I build agentic systems that are observable, testable, and useful in real workflows.
 Most of my side projects focus on making AI development faster and easier to trust.
 
-## Current Project
+## Current Projects
+
+- 🧰 **[skill-cli](https://github.com/Nickbohm555/skill-cli)**  
+  Codex CLI work in progress: a CLI to turn API documentation into structured Codex skills, reducing the need for MCP layers like Context7.
+
+## Completed Projects
 
 - ✅ **[agent-search](https://github.com/Nickbohm555/agent-search)**  
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis. Completed for now.
-- 🧰 **[skill-cli](https://github.com/Nickbohm555/skill-cli)**  
-  Codex CLI work in progress: a CLI to turn API documentation into structured Codex skills, reducing the need for MCP layers like Context7.
 - 🌙 **[dream-workflow](https://github.com/Nickbohm555/dream-workflow)**  
   Workflow system combining GSD with the Ralph loop to 100x my development speed.
 
