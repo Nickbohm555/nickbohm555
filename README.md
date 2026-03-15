@@ -18,7 +18,7 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 ## Completed Projects
 
-- ✅ **[agent-search](https://github.com/Nickbohm555/agent-search)**  
+- 🔎 **[agent-search](https://github.com/Nickbohm555/agent-search)**  
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis. Completed for now.
 - 🌙 **[dream-workflow](https://github.com/Nickbohm555/dream-workflow)**  
   Workflow system combining GSD with the Ralph loop to 100x my development speed.
