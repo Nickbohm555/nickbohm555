@@ -15,8 +15,6 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 - 🌐 **[web-agent](https://github.com/Nickbohm555/web-agent)**  
   Lightweight local agent workflow for iterating on web apps with Codex, Docker, and a repeatable dev loop.
-- 🧰 **[skill-cli](https://github.com/Nickbohm555/skill-cli)**  
-  Codex CLI work in progress: a CLI to turn API documentation into structured Codex skills, reducing the need for MCP layers like Context7.
 
 ## Completed Projects
 
