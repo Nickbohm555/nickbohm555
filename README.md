@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -13,6 +14,8 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 ## Current Projects
 
+- 🤖 **[deep-agent-cli](https://github.com/Nickbohm555/deep-agent-cli)**  
+  CLI-focused agent tooling extracted from my coding-agent experiments.
 - 🌐 **[web-agent](https://github.com/Nickbohm555/web-agent)**  
   Lightweight local agent workflow for iterating on web apps with Codex, Docker, and a repeatable dev loop.
 
