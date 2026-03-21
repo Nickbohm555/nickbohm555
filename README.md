@@ -14,6 +14,8 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 ## Current Projects
 
+- 🌫️ **[air-quality-agent](https://github.com/Nickbohm555/air-quality-agent)**  
+  Air quality research and monitoring agent scaffold focused on source-backed AQI data, explanations, and practical guidance.
 - 🤖 **[deep-agent-cli](https://github.com/Nickbohm555/deep-agent-cli)**  
   CLI-focused agent tooling extracted from my coding-agent experiments.
 - 🌐 **[web-agent](https://github.com/Nickbohm555/web-agent)**  
