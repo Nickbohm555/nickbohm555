@@ -16,11 +16,11 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 - 🤖 **[deep-agent-cli](https://github.com/Nickbohm555/deep-agent-cli)**  
   CLI-focused agent tooling extracted from my coding-agent experiments.
-- 🌐 **[web-agent](https://github.com/Nickbohm555/web-agent)**  
-  Lightweight local agent workflow for iterating on web apps with Codex, Docker, and a repeatable dev loop.
 
 ## Completed Projects
 
+- 🌐 **[web-agent](https://github.com/Nickbohm555/web-agent)**  
+  Python SDK and backend for stateless OpenAI web-search runs, combining low-cost search discovery with parallel page retrieval.
 - 🔎 **[agent-search](https://github.com/Nickbohm555/agent-search)**  
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis. Completed for now.
 - 🌙 **[dream-workflow](https://github.com/Nickbohm555/dream-workflow)**  
