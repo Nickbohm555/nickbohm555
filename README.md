@@ -14,11 +14,11 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 ## Current Projects
 
-- Go **[go-agent](https://github.com/Nickbohm555/go-agent)**  
+- 🐹 **[go-agent](https://github.com/Nickbohm555/go-agent)**  
   Learning Go concurrency and agent-building patterns in one project.
-- RAG **[rag](https://github.com/Nickbohm555/rag)**  
+- 📚 **[rag](https://github.com/Nickbohm555/rag)**  
   Studying retrieval algorithms, tradeoffs, and why certain RAG strategies work better.
-- Transformers **[transformers](https://github.com/Nickbohm555/transformers)**  
+- 🧠 **[transformers](https://github.com/Nickbohm555/transformers)**  
   Learning how transformers work from the core mechanics up.
 
 ## Completed Projects
