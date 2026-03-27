@@ -14,8 +14,12 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 ## Current Projects
 
-- 🤖 **[deep-agent-cli](https://github.com/Nickbohm555/deep-agent-cli)**  
-  CLI-focused agent tooling extracted from my coding-agent experiments.
+- Go **[go-agent](https://github.com/Nickbohm555/go-agent)**  
+  Learning Go concurrency and agent-building patterns in one project.
+- RAG **[rag](https://github.com/Nickbohm555/rag)**  
+  Studying retrieval algorithms, tradeoffs, and why certain RAG strategies work better.
+- Transformers **[transformers](https://github.com/Nickbohm555/transformers)**  
+  Learning how transformers work from the core mechanics up.
 
 ## Completed Projects
 
