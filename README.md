@@ -14,6 +14,8 @@ Most of my side projects focus on making AI development faster and easier to tru
 
 ## Current Projects
 
+- 📈 **[investor](https://github.com/Nickbohm555/investor)**  
+  LangGraph-based investing workflow using Quiver data, email approvals, and Alpaca review handoff.
 - 🐹 **[go-agent](https://github.com/Nickbohm555/go-agent)**  
   Learning Go concurrency and agent-building patterns in one project.
 - 📚 **[rag](https://github.com/Nickbohm555/rag)**  
