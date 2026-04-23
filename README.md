@@ -12,16 +12,6 @@
 I build agentic systems that are observable, testable, and useful in real workflows.
 Most of my side projects focus on making AI development faster and easier to trust.
 
-## Current Projects
-
-- 📈 **[investor](https://github.com/Nickbohm555/investor)**  
-  LangGraph-based investing workflow using Quiver data, email approvals, and Alpaca review handoff.
-- 🐹 **[go-agent](https://github.com/Nickbohm555/go-agent)**  
-  Learning Go concurrency and agent-building patterns in one project.
-- 📚 **[rag](https://github.com/Nickbohm555/rag)**  
-  Studying retrieval algorithms, tradeoffs, and why certain RAG strategies work better.
-- 🧠 **[transformers](https://github.com/Nickbohm555/transformers)**  
-  Learning how transformers work from the core mechanics up.
 
 ## Completed Projects
 
@@ -29,8 +19,7 @@ Most of my side projects focus on making AI development faster and easier to tru
   Python SDK and backend for stateless OpenAI web-search runs, combining low-cost search discovery with parallel page retrieval.
 - 🔎 **[agent-search](https://github.com/Nickbohm555/agent-search)**  
   Graph-based RAG system and SDK with multi-step retrieval, reranking, and citation-grounded synthesis. Completed for now.
-- 🌙 **[dream-workflow](https://github.com/Nickbohm555/dream-workflow)**  
-  Workflow system combining GSD with the Ralph loop to 100x my development speed.
+
 
 More projects coming soon.
 
